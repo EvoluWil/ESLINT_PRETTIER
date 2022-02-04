@@ -6,9 +6,8 @@
     "es2020": true
   },
   "extends": [
-    "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended",
-    "airbnb",
+    "airbnb-base",
     "prettier",
     "plugin:prettier/recommended"
   ],
